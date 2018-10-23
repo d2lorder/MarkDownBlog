@@ -1,5 +1,5 @@
 deploy:
   type: git
-  repo: https://github.com/d2lorder/MarkDownBlog.git
+  repo: git@github.com:d2lorder/MarkDownBlog.git
   branch: master
   message: my-blog
